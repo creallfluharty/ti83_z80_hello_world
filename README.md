@@ -1,8 +1,8 @@
-##What it is:
+## What it is:
 Poorly hacked together "Hello, World" assembly program for the TI83 (not plus) using spasm.
 
 
-##Why?
+## Why?
 I couldn't find a modern spasm example of all this, and there were some tiny pitfalls.
 
 
